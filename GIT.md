@@ -1,5 +1,3 @@
-# Exercício Guiado - Introdução ao Git e GitHub
-
 ## Programação Orientada a Dados
 
 ## Parte 1: Configuração Inicial do Git
@@ -215,5 +213,5 @@ git push origin main
 git branch -d nova-funcionalidade
 ```
 
-Autor: ##### Prof. Otávio Parraga
+Autor: Prof. Otávio Parraga
 
